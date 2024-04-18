@@ -61,8 +61,8 @@
 
 	<repositories>
 		<repository>
-			<id>my-repo</id>
-			<name>My Repository</name>
+			<id>75415320</id>
+			<name>saikrishna1419</name>
 			<url>https://github.com/saikrishna1419/DogsManagementSystem</url>
 		</repository>
 	</repositories>
